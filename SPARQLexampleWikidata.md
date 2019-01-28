@@ -1,3 +1,6 @@
+# 課題シート
+https://www.dropbox.com/s/szi37r0pajfn7mt/LOD-kadai.docx?dl=0
+
 # Wikidataを例としたSPARQLの基本クエリ例
 ---
 [Wikidataのクエリサービス](https://query.wikidata.org/)を例とした，基本的なSPARQLクエリの書き方の例を解説しています．  
